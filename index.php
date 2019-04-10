@@ -38,17 +38,22 @@
 				other Tesla hobbyists. He needs to able to see post chains, reply to initial posts and comments, be able to
 				dm other users, and have the ability to view/post images and videos. Jon can't find any forums for this, and
 				decides to make a subreddit. Here are the steps Mr. Tully takes:
-			<div>
+		</p>
+
 			<ul>
 				<li>Jonathon enters reddit.com into his browser</li>
 				<li>When the page loads, he logs in with his username and password</li>
 				<li>Because Mr. Tully is a valued member of the community and meets reddit's requirements for account age
 					and established merit via 'karma points', he is allowed to click on a button called "Create Community" on
 					his reddit hompage.</li>
+				<li>A small window pops up, asking for the name of your subreddit, whether you want it to public or invite
+					only, and a brief description of your desired forum. Jonathon fills these out accordingly, and hits
+					'create'</li>
+				<li>And then Jon is done. The forum is created, and a community built upon free access to technological
+					education can develop around him</li>
+
 			</ul>
 
-			</div>
-		</p>
 
 		<p></p>
 	</body>
