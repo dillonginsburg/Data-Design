@@ -14,7 +14,15 @@
 		</ul>
 		<ul><h3>Subreddit</h3>
 			<li>SubredditId</li>
-			<li></li>
+			<li>Community Details</li>
+			<li>Community Rules</li>
+		</ul>
+		<ul><h3>Post</h3>
+			<li>SubredditId</li>
+			<li>PostContent</li>
+			<li>PostUserId</li>
+			<li>PostDate</li>
+			<li>PostTitle</li>
 		</ul>
 
 		<img src="DataDesign4-14.jpg">
