@@ -6,9 +6,18 @@
 	</head>
 	<h1 align="center">Concept Model</h1>
 	<body>
-		<h2>Entities and Attributes</h2>
+		<h2 <em>Entities and Attributes</h2>
+		<ul><h3>User</h3>
+			<li>UserID</li>
+			<li>UserEmail</li>
+			<li>UserKarma</li>
+		</ul>
+		<ul><h3>Subreddit</h3>
+			<li>SubredditId</li>
+			<li></li>
+		</ul>
 
-		<img src="Capture.PNG">
+		<img src="DataDesign4-14.jpg">
 	</body>
 </html>
 
