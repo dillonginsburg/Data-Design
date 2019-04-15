@@ -26,6 +26,7 @@
 		</ul>
 
 		<img src="DataDesign4-14.jpg">
+			<h2><a href="./index.php">Home</a></h2>
 	</body>
 </html>
 

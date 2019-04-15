@@ -27,7 +27,7 @@
 <h3>Interaction Flow</h3>
 <ul>
 	<li>Jon clicks on "Create Community" on his reddit hompage.</li>
-	<li>A small window pops up, asking for the desired name of the new subreddit, whether you want access to be public or
+	<li>A small window pops up, asking for the desired name of the new subreddit, whether he wants access to be public or
 		private, and a brief description of what the content of the new forum should be about. Jonathon fills these out
 		accordingly, and hits 'create'.</li>
 	<li>And then Jon is done. The forum is created, and a community built upon free access to technological
