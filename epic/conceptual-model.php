@@ -7,22 +7,22 @@
 	<h1 align="center">Concept Model</h1>
 	<body>
 		<h2 <em>Entities and Attributes</h2>
-		<ul><h3>User</h3>
-			<li>UserID</li>
-			<li>UserEmail</li>
-			<li>UserKarma</li>
+		<ul><h3>user</h3>
+			<li>userID</li>
+			<li>userEmail</li>
+			<li>userKarma</li>
 		</ul>
-		<ul><h3>Subreddit</h3>
-			<li>SubredditId</li>
-			<li>Community Details</li>
-			<li>Community Rules</li>
+		<ul><h3>subreddit</h3>
+			<li>subredditId</li>
+			<li>subredditDetails</li>
+			<li>subredditRules</li>
 		</ul>
 		<ul><h3>Post</h3>
-			<li>SubredditId</li>
-			<li>PostContent</li>
-			<li>PostUserId</li>
-			<li>PostDate</li>
-			<li>PostTitle</li>
+			<li>subredditId</li>
+			<li>postContent</li>
+			<li>postUserId</li>
+			<li>postDate</li>
+			<li>postTitle</li>
 		</ul>
 
 		<img src="finalERDdataDesign.jpg">
