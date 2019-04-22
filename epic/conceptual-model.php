@@ -6,7 +6,7 @@
 	</head>
 	<h1 align="center">Concept Model</h1>
 	<body>
-		<h2 <em>Entities and Attributes</h2>
+		<h2 <em>Entities and Attributes</em></h2>
 		<ul><h3>user</h3>
 			<li>userID</li>
 			<li>userEmail</li>
