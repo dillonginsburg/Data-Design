@@ -2,13 +2,13 @@ drop table if exists post;
 drop table if exists subreddit;
 drop table if exists user;
 
-		create table user (
-		userId binary(16) not null,
-		userEmail varchar(128) not null,
-		userKarma binary(32) not null,
-		index(userId),
-		primary key(userId)
-		);
+	create table user (
+	userId binary(16) not null,
+	userEmail varchar(128) not null,
+	userKarma binary(32) not null,
+	index(userId),
+	primary key(userId)
+	);
 
 
 create table subreddit (
