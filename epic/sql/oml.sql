@@ -27,3 +27,5 @@ select post.postSubredditId, subreddit.subredditId
 from post inner join subreddit
 on post.postSubredditId = subreddit.subredditId
 where post.postSubredditId = true;
+
+select count (tweetProfileId) from 'like' where tweetId = unhex
