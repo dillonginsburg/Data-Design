@@ -26,6 +26,6 @@ select postId from post where postId=(hex("c88477186d644bf7b0de8033ab47e539"));
 select post.postSubredditId, subreddit.subredditId
 from post inner join subreddit
 on post.postSubredditId = subreddit.subredditId
-where post.postSubredditId = true;
+where post.postSubredditId = unhex("bcfca9d070184f1f9f7e08af2674b855");
 
-select count (tweetProfileId) from 'like' where tweetId = unhex
+select count (tweetProfileId) from 'like' where tweetId = unhex("c88477186d644bf7b0de8033ab47e539")
